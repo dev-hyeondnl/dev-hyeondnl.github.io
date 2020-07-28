@@ -3,7 +3,7 @@ title: Binary Exponentiation
 category: Algebra
 order: 1
 ---
-
+이항전개를 사용.
 Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
 
 > Signing up with Facebook automatically starts syncing contacts.
