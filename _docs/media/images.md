@@ -1,5 +1,5 @@
 ---
-title: Images
+title: Binary Exponentiation
 category: Media
 order: 1
 ---

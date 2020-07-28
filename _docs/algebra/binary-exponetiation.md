@@ -1,6 +1,6 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: Binary Exponentiation
+category: Algebra
 order: 1
 ---
 

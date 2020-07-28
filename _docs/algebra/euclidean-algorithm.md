@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: Euclidean Algorithm for computing GCD
+category: Algebra
 order: 2
 ---
 
